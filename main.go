@@ -54,7 +54,7 @@ type graphqlResponse struct {
 type ARPB [][]string
 
 func (a ARPB) csv() {
-	fmt.Println("siret,regionCRPInstructeur,typeAide,dateDecision,dureeAide,montant")
+	os.Stdout.WriteString("siret,regionCRPInstructeur,typeAide,dateDecision,dureeAide,montant\n")
 	writer := csv.NewWriter(os.Stdout)
 	writer.WriteAll(a)
 }
@@ -113,7 +113,7 @@ func query(cursor string) string {
 	}
 	return fmt.Sprintf(`{
     demarche(number: 30928) {
-			dossiers(state:accepte, first:20%s) { 
+			dossiers(state:accepte, first:100%s) { 
 				pageInfo {
 					endCursor
 					hasNextPage
