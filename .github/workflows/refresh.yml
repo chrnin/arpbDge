@@ -20,6 +20,8 @@ jobs:
     - name: Build
       run: go build -v -o main .
     - name: Extract Data
+      env:
+        DS_KEY: ${{ secrets.DS_KEY }} 
       run: ./main > arpb.csv
     - name: Set Git identity
       run: |
