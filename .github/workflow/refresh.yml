@@ -1,0 +1,36 @@
+name: Refresh ARPB
+
+on:
+  push:
+    branches: 'master'
+  schedule:
+  - cron:  '0 6 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Set up Go 1.x
+      uses: actions/setup-go@v2
+      with:
+        go-version: ^1.16
+      id: go
+    - name: Check out code into the Go module directory
+      uses: actions/checkout@v2
+    - name: Build
+      run: go build -v -o main .
+    - name: Extract Data
+      run: ./main > arpb.csv
+    - name: Set Git identity
+      run: |
+        git config --global user.email "robot@actions.github"
+        git config --global user.name "robot"
+    - name: Push update to git
+      run: |
+        if [ -n "$(git status --porcelain)" ]; then
+          git add arpb.csv
+          git commit -m "New data at $(date -u +'%Y-%m-%dT%H:%M:%SZ') [skip ci]"
+          git push origin master
+        else
+          echo "No changes";
+        fi   
