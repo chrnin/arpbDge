@@ -116,6 +116,7 @@ siret,regionCRPInstructeur,typeAide,dateDecision,dureeAide,montant
 31176543200043,Centre-Val de Loire,Avance remboursable,05 mars 2021,10 ans (avance remboursable),250000
 49898746000025,Auvergne-Rhône-Alpes,Prêt à taux bonifié,11 avril 2021,6 ans,600000
 79345134500011,Hauts-de-France,Prêt à taux bonifié,22 janvier 2021,6 ans,247000
+47971904900021,Centre-Val de Loire,Prêt à taux bonifié,09 juillet 2021,6 ans,3600000
 38932334600012,Auvergne-Rhône-Alpes,Prêt à taux bonifié,27 janvier 2021,6 ans,1600000
 30582340300012,Auvergne-Rhône-Alpes,Prêt à taux bonifié,08 mars 2021,6 ans,400000
 78222801900033,Nouvelle-Aquitaine,Avance remboursable,12 mars 2021,10 ans (avance remboursable),300000
@@ -142,6 +143,7 @@ siret,regionCRPInstructeur,typeAide,dateDecision,dureeAide,montant
 31884526000021,Pays de la Loire,Avance remboursable,24 juin 2021,10 ans (avance remboursable),800000
 53406047000018,Auvergne-Rhône-Alpes,Prêt à taux bonifié,08 juin 2021,6 ans,1400000
 39876182500056,Nouvelle-Aquitaine,Prêt à taux bonifié,14 juin 2021,6 ans,600000
+44782510000012,Normandie,,06 juillet 2021,,4000000
 41878202501359,Île-de-France,Prêt à taux bonifié,20 mai 2021,3 ans,1500000
 32800841200079,La Réunion,Prêt à taux bonifié,07 juin 2021,6 ans,2350000
 64203655200064,Île-de-France,Prêt à taux bonifié,31 mai 2021,6 ans,2300000
