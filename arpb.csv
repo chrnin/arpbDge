@@ -122,6 +122,7 @@ siret,regionCRPInstructeur,typeAide,dateDecision,dureeAide,montant
 78222801900033,Nouvelle-Aquitaine,Avance remboursable,12 mars 2021,10 ans (avance remboursable),300000
 78913631400182,Île-de-France,Prêt à taux bonifié,04 mars 2021,6 ans,790000
 41956490100025,Nouvelle-Aquitaine,Avance remboursable,02 avril 2021,10 ans (avance remboursable),150000
+38136506300043,Nouvelle-Aquitaine,Prêt à taux bonifié,22 juillet 2021,6 ans,426000
 85134878900021,Provence-Alpes-Côte d'Azur,Avance remboursable,27 mai 2021,10 ans (avance remboursable),400000
 44284036900015,Nouvelle-Aquitaine,Prêt à taux bonifié,21 mai 2021,6 ans,625000
 40889424400016,Nouvelle-Aquitaine,Prêt à taux bonifié,03 mars 2021,6 ans,500000
@@ -141,7 +142,9 @@ siret,regionCRPInstructeur,typeAide,dateDecision,dureeAide,montant
 41925748000022,Bretagne,Avance remboursable,26 avril 2021,10 ans (avance remboursable),800000
 38845635200011,Bourgogne-Franche-Comté,Avance remboursable,10 mai 2021,10 ans (avance remboursable),250000
 87944006300029,Bretagne,Avance remboursable,28 mai 2021,10 ans (avance remboursable),500000
+81919296400024,Auvergne-Rhône-Alpes,Prêt à taux bonifié,15 juillet 2021,6 ans,1200000
 38411725500032,Hauts-de-France,Prêt à taux bonifié,22 juin 2021,6 ans,800000
+48322340000027,Bretagne,Prêt à taux bonifié,20 juillet 2021,6 ans,1000000
 31884526000021,Pays de la Loire,Avance remboursable,24 juin 2021,10 ans (avance remboursable),800000
 53406047000018,Auvergne-Rhône-Alpes,Prêt à taux bonifié,08 juin 2021,6 ans,1400000
 39876182500056,Nouvelle-Aquitaine,Prêt à taux bonifié,14 juin 2021,6 ans,600000
