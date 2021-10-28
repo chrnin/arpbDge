@@ -66,6 +66,7 @@ siret,regionCRPInstructeur,typeAide,dateDecision,dureeAide,montant
 51378313400036,Grand Est,Avance remboursable,19 novembre 2020,10,690000
 83090866100010,Provence-Alpes-Côte d'Azur,Prêt à taux bonifié,12 janvier 2021,6,1000000
 48177563300011,Occitanie,Avance remboursable,14 décembre 2020,10,700000
+51179141000026,Nouvelle-Aquitaine,Prêt à taux bonifié,22 octobre 2021,6,4000000
 06150227400014,Auvergne-Rhône-Alpes,Prêt à taux bonifié,14 décembre 2020,6,3250000
 39334482500178,Île-de-France,Prêt à taux bonifié,15 décembre 2020,3,1500000
 81280171000011,Corse,Prêt à taux bonifié,12 novembre 2020,6,700000
@@ -144,6 +145,7 @@ siret,regionCRPInstructeur,typeAide,dateDecision,dureeAide,montant
 79053636100039,Nouvelle-Aquitaine,Prêt à taux bonifié,26 mars 2021,6,400000
 81408561900017,Nouvelle-Aquitaine,Prêt à taux bonifié,27 mai 2021,6,600000
 41487012100046,Normandie,Prêt à taux bonifié,21 juin 2021,6,3000000
+07320109700026,Pays de la Loire,Prêt à taux bonifié,14 octobre 2021,6,200000
 41925748000022,Bretagne,Avance remboursable,26 avril 2021,10,800000
 38845635200011,Bourgogne-Franche-Comté,Avance remboursable,10 mai 2021,10,250000
 87944006300029,Bretagne,Avance remboursable,28 mai 2021,10,500000
