@@ -76,6 +76,7 @@ siret,regionCRPInstructeur,typeAide,dateDecision,dureeAide,montant
 30974589100056,Pays de la Loire,Prêt à taux bonifié,01 septembre 2021,6,1700000
 42288185400042,Bourgogne-Franche-Comté,Avance remboursable,21 octobre 2020,10,600000
 38467493300021,Nouvelle-Aquitaine,Prêt à taux bonifié,27 octobre 2020,6,600000
+42877499600014,Normandie,Prêt à taux bonifié,29 novembre 2021,6,1100000
 38398821900028,Occitanie,Prêt à taux bonifié,13 octobre 2020,6,750000
 40125850400042,La Réunion,Avance remboursable,08 décembre 2020,10,220000
 49279466400036,Nouvelle-Aquitaine,Prêt à taux bonifié,05 octobre 2020,6,500000
@@ -192,6 +193,11 @@ siret,regionCRPInstructeur,typeAide,dateDecision,dureeAide,montant
 88526866400012,Nouvelle-Aquitaine,Prêt à taux bonifié,25 octobre 2021,6,750000
 34799433700090,Nouvelle-Aquitaine,Prêt à taux bonifié,04 novembre 2021,6,1500000
 40152440000033,Nouvelle-Aquitaine,Prêt à taux bonifié,25 octobre 2021,6,600000
+79263501300024,Nouvelle-Aquitaine,Prêt à taux bonifié,23 novembre 2021,6,1500000
+52767608400025,Nouvelle-Aquitaine,Prêt à taux bonifié,26 octobre 2021,6,3090000
+49279466400036,Nouvelle-Aquitaine,Prêt à taux bonifié,24 novembre 2021,350000,-1
 54675026600035,Pays de la Loire,Avance remboursable,23 novembre 2021,6,500000
+80858813100025,Nouvelle-Aquitaine,Prêt à taux bonifié,23 novembre 2021,6,850000
 50824553700073,La Réunion,Avance remboursable,24 novembre 2021,10,700000
+34511756800054,Grand Est,Avance remboursable,03 décembre 2021,10,800000
 90379829600013,Bourgogne-Franche-Comté,,04 décembre 2021,10,550000
