@@ -26,7 +26,7 @@ siret,regionCRPInstructeur,typeAide,dateDecision,dureeAide,montant
 50428624600013,Bourgogne-Franche-Comté,Prêt à taux bonifié,19 octobre 2020,6,400000
 80053265700023,Île-de-France,Prêt à taux bonifié,24 août 2020,6,200000
 50226772700019,Auvergne-Rhône-Alpes,Prêt à taux bonifié,09 février 2021,6,900000
-34203066500034,Normandie,Prêt à taux bonifié,26 août 2021,6,150000
+34203066500034,Normandie,Avance remboursable,26 août 2021,10,150000
 52479982200019,Grand Est,Prêt à taux bonifié,25 octobre 2020,6,2500000
 33133863200010,Grand Est,Prêt à taux bonifié,26 octobre 2020,4,500000
 53521532100014,Pays de la Loire,Prêt à taux bonifié,26 octobre 2020,6,200000
@@ -169,7 +169,7 @@ siret,regionCRPInstructeur,typeAide,dateDecision,dureeAide,montant
 42434190700022,Hauts-de-France,Prêt à taux bonifié,04 novembre 2021,6,2250000
 84439918800011,Hauts-de-France,Avance remboursable,29 juin 2021,10,400000
 40098551100015,Bourgogne-Franche-Comté,Prêt à taux bonifié,30 août 2021,10,500000
-81173307000015,La Réunion,,08 juillet 2021,10,500000
+81173307000015,La Réunion,Avance remboursable,08 juillet 2021,10,500000
 35349945200012,Nouvelle-Aquitaine,Avance remboursable,10 septembre 2021,10,800000
 48572001500018,Grand Est,Prêt à taux bonifié,10 septembre 2021,6,2000000
 96950498400036,Auvergne-Rhône-Alpes,Avance remboursable,20 juillet 2021,10,700000
@@ -195,9 +195,10 @@ siret,regionCRPInstructeur,typeAide,dateDecision,dureeAide,montant
 40152440000033,Nouvelle-Aquitaine,Prêt à taux bonifié,25 octobre 2021,6,600000
 79263501300024,Nouvelle-Aquitaine,Prêt à taux bonifié,23 novembre 2021,6,1500000
 52767608400025,Nouvelle-Aquitaine,Prêt à taux bonifié,26 octobre 2021,6,3090000
-49279466400036,Nouvelle-Aquitaine,Prêt à taux bonifié,24 novembre 2021,350000,-1
+49279466400036,Nouvelle-Aquitaine,Prêt à taux bonifié,24 novembre 2021,6,350000
 54675026600035,Pays de la Loire,Avance remboursable,23 novembre 2021,6,500000
 80858813100025,Nouvelle-Aquitaine,Prêt à taux bonifié,23 novembre 2021,6,850000
 50824553700073,La Réunion,Avance remboursable,24 novembre 2021,10,700000
 34511756800054,Grand Est,Avance remboursable,03 décembre 2021,10,800000
 90379829600013,Bourgogne-Franche-Comté,,04 décembre 2021,10,550000
+44484090400023,La Réunion,Avance remboursable,07 décembre 2021,10,800000
