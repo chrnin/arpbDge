@@ -145,6 +145,7 @@ siret,regionCRPInstructeur,typeAide,dateDecision,dureeAide,montant
 31860670400019,Bretagne,Prêt à taux bonifié,26 mars 2021,6,1000000
 42879466300032,Pays de la Loire,Avance remboursable,07 mai 2021,10,310000
 83102291800013,Nouvelle-Aquitaine,Prêt à taux bonifié,26 mars 2021,6,1200000
+89246298700017,Auvergne-Rhône-Alpes,Avance remboursable,17 décembre 2021,10,800000
 38817910300048,Bourgogne-Franche-Comté,Prêt à taux bonifié,10 juin 2021,6,1050000
 81283638500011,Occitanie,Prêt à taux bonifié,15 juillet 2021,4,600000
 79053636100039,Nouvelle-Aquitaine,Prêt à taux bonifié,26 mars 2021,6,400000
@@ -189,12 +190,14 @@ siret,regionCRPInstructeur,typeAide,dateDecision,dureeAide,montant
 30491543200021,Occitanie,Prêt à taux bonifié,07 septembre 2021,10,800000
 38927319400024,Nouvelle-Aquitaine,Prêt à taux bonifié,08 décembre 2021,6,300000
 77569492000098,Île-de-France,Prêt à taux bonifié,28 septembre 2021,6,325000
+82315570000011,Provence-Alpes-Côte d'Azur,Avance remboursable,17 décembre 2021,10,800000
 38229735600034,Normandie,,16 novembre 2021,6,500000
 72362031600031,Auvergne-Rhône-Alpes,,11 octobre 2021,10,1500000
 88526866400012,Nouvelle-Aquitaine,Prêt à taux bonifié,25 octobre 2021,6,750000
 34799433700090,Nouvelle-Aquitaine,Prêt à taux bonifié,04 novembre 2021,6,1500000
 40152440000033,Nouvelle-Aquitaine,Prêt à taux bonifié,25 octobre 2021,6,600000
 79263501300024,Nouvelle-Aquitaine,Prêt à taux bonifié,23 novembre 2021,6,1500000
+34263557000027,Auvergne-Rhône-Alpes,Prêt à taux bonifié,17 décembre 2021,6,1800000
 52767608400025,Nouvelle-Aquitaine,Prêt à taux bonifié,26 octobre 2021,6,3090000
 49279466400036,Nouvelle-Aquitaine,Prêt à taux bonifié,24 novembre 2021,6,350000
 54675026600035,Pays de la Loire,Avance remboursable,23 novembre 2021,6,500000
