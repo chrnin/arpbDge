@@ -99,11 +99,13 @@ siret,regionCRPInstructeur,typeAide,dateDecision,dureeAide,montant
 47771197200018,Auvergne-Rhône-Alpes,Prêt à taux bonifié,08 décembre 2021,6,2500000
 53250775300046,Hauts-de-France,Avance remboursable,22 janvier 2021,10,400000
 33067445800014,Bretagne,Avance remboursable,03 décembre 2020,10,800000
+41444816700026,Nouvelle-Aquitaine,Prêt à taux bonifié,16 juin 2022,6,500000
 61920014000025,Bretagne,Avance remboursable,10 décembre 2020,10,600000
 48213875700026,Centre-Val de Loire,Prêt à taux bonifié,16 avril 2021,6,3000000
 43272504200027,La Réunion,Avance remboursable,03 février 2021,10,480000
 83957804400027,Auvergne-Rhône-Alpes,Prêt à taux bonifié,03 mai 2021,6,350000
 73575014300019,Pays de la Loire,Avance remboursable,23 juillet 2021,10,300000
+32981662300022,Centre-Val de Loire,Prêt à taux bonifié,20 juin 2022,6,3000000
 41491399600016,Grand Est,Prêt à taux bonifié,28 janvier 2021,6,550000
 50836775200013,Normandie,Prêt à taux bonifié,01 février 2021,6,1000000
 39781078900040,Auvergne-Rhône-Alpes,Prêt à taux bonifié,10 janvier 2022,6,1500000
@@ -199,6 +201,7 @@ siret,regionCRPInstructeur,typeAide,dateDecision,dureeAide,montant
 82315570000011,Provence-Alpes-Côte d'Azur,Avance remboursable,17 décembre 2021,10,800000
 37807926300018,Provence-Alpes-Côte d'Azur,Avance remboursable,03 janvier 2022,10,200000
 38229735600034,Normandie,Prêt à taux bonifié,16 novembre 2021,6,500000
+51974238100063,Centre-Val de Loire,Avance remboursable,16 juin 2022,6,600000
 72362031600031,Auvergne-Rhône-Alpes,Avance remboursable,11 octobre 2021,10,1500000
 88526866400012,Nouvelle-Aquitaine,Prêt à taux bonifié,25 octobre 2021,6,750000
 34799433700090,Nouvelle-Aquitaine,Prêt à taux bonifié,04 novembre 2021,6,1500000
@@ -241,6 +244,14 @@ siret,regionCRPInstructeur,typeAide,dateDecision,dureeAide,montant
 53193866000028,Occitanie,Prêt à taux bonifié,10 mars 2022,6,2800000
 88007218600021,Grand Est,Prêt à taux bonifié,10 mai 2022,6,750000
 79800567400063,Grand Est,Prêt à taux bonifié,20 avril 2022,6,2000000
+49872621500011,Normandie,Prêt à taux bonifié,07 juin 2022,6,500000
 84313737300018,Grand Est,Prêt à taux bonifié,02 mai 2022,6,1000000
 83275552400028,Nouvelle-Aquitaine,Prêt à taux bonifié,23 mars 2022,6,4000000
 91203843700014,Grand Est,Prêt à taux bonifié,09 mai 2022,6,418000
+79019338700012,Normandie,Prêt à taux bonifié,16 juin 2022,6,500000
+60278032200023,Occitanie,Avance remboursable,21 juin 2022,10,220000
+84483707000029,Hauts-de-France,Prêt à taux bonifié,15 juin 2022,6,2300000
+43901473900015,Occitanie,Avance remboursable,21 juin 2022,10,600000
+39292091400018,Occitanie,Avance remboursable,21 juin 2022,10,750000
+35365513700019,Occitanie,Avance remboursable,21 juin 2022,10,500000
+67712026300012,Nouvelle-Aquitaine,Avance remboursable,17 juin 2022,10,1955000
